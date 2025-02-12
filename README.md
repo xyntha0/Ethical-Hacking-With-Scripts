@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Ethical-Hacking-With-Scripts
-=======
 # Ethical Hacking Python Scripts
 
 ## Flooder, Sniffer, and Spoofer Scripts
